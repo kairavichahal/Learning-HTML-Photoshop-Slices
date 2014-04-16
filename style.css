@@ -1,0 +1,334 @@
+body	{
+	background-color:white;
+	color:black;
+	margin:0px;
+	padding:0px;
+	}
+	
+a:link		{
+			text-decoration:none;
+			color:#4247c9;
+			}
+
+a:visited	{
+			color:#ed1b24;
+			}
+			
+a:hover		{
+			color:#23b14d;
+			}
+
+a:active	{
+			color:#ff7f24;
+			}
+
+#wholepage	{
+			position:relative;
+			margin-left: auto;
+			margin-right: auto;
+			left:0px;
+			top:0px;
+			width:638px;
+			height:600px;
+			}
+
+#logo_		{
+			position:absolute;
+			left:0px;
+			top:0px;
+			width:139px;
+			height:131px;
+			}
+
+#header_	{
+			position:absolute;
+			left:139px;
+			top:0px;
+			width:499px;
+			height:131px;
+			}
+
+#index-03_	{
+			position:absolute;
+			left:0px;
+			top:131px;
+			width:638px;
+			height:4px;
+			}
+
+#index-04_	{
+			position:absolute;
+			left:0px;
+			top:135px;
+			width:155px;
+			height:67px;
+			}
+
+#home_		{
+			position:absolute;
+			left:155px;
+			top:135px;
+			width:90px;
+			height:36px;
+			}
+
+#index-06_	{
+			position:absolute;
+			left:245px;
+			top:135px;
+			width:6px;
+			height:465px;
+			}
+
+#history_	{
+			position:absolute;
+			left:251px;
+			top:135px;
+			width:90px;
+			height:36px;
+			}
+
+#index-08_	{
+			position:absolute;
+			left:341px;
+			top:135px;
+			width:6px;
+			height:465px;
+			}
+
+#buy_		{
+			position:absolute;
+			left:347px;
+			top:135px;
+			width:90px;
+			height:36px;
+			}
+
+#index-10_	{
+			position:absolute;
+			left:437px;
+			top:135px;
+			width:8px;
+			height:465px;
+			}
+
+#howto_		{
+			position:absolute;
+			left:445px;
+			top:135px;
+			width:90px;
+			height:36px;
+			}
+
+#index-12_	{
+			position:absolute;
+			left:535px;
+			top:135px;
+			width:9px;
+			height:465px;
+			}
+
+#contact_	{
+			position:absolute;
+			left:544px;
+			top:135px;
+			width:90px;
+			height:36px;
+			}
+
+#index-14_	{
+			position:absolute;
+			left:634px;
+			top:135px;
+			width:4px;
+			height:465px;
+			}
+
+#index-15_	{
+			position:absolute;
+			left:155px;
+			top:171px;
+			width:90px;
+			height:429px;
+			}
+
+#index-16_	{
+			position:absolute;
+			left:251px;
+			top:171px;
+			width:90px;
+			height:429px;
+			}
+
+#index-17_	{
+			position:absolute;
+			left:347px;
+			top:171px;
+			width:90px;
+			height:429px;
+			}
+
+#index-18_	{
+			position:absolute;
+			left:445px;
+			top:171px;
+			width:90px;
+			height:429px;
+			}
+
+#index-19_	{
+			position:absolute;
+			left:544px;
+			top:171px;
+			width:90px;
+			height:429px;
+			}
+
+#intro_		{
+			position:absolute;
+			left:0px;
+			top:202px;
+			width:139px;
+			height:36px;
+			}
+
+#index-21_	{
+			position:absolute;
+			left:139px;
+			top:202px;
+			width:16px;
+			height:398px;
+			}
+
+#index-22_	{
+			position:absolute;
+			left:0px;
+			top:238px;
+			width:139px;
+			height:7px;
+			}
+
+#working_	{
+			position:absolute;
+			left:0px;
+			top:245px;
+			width:139px;
+			height:37px;
+			}
+
+#index-24_	{
+			position:absolute;
+			left:0px;
+			top:282px;
+			width:139px;
+			height:7px;
+			}
+
+#math_	{
+		position:absolute;
+		left:0px;
+		top:289px;
+		width:139px;
+		height:35px;
+		}
+
+#index-26_	{
+			position:absolute;
+			left:0px;
+			top:324px;
+			width:139px;
+			height:8px;
+			}
+
+#records_	{
+			position:absolute;
+			left:0px;
+			top:332px;
+			width:139px;
+			height:37px;
+			}
+
+#index-28_	{
+			position:absolute;
+			left:0px;
+			top:369px;
+			width:139px;
+			height:6px;
+			}
+
+#link_		{
+			position:absolute;
+			left:0px;
+			top:375px;
+			width:139px;
+			height:36px;
+			}
+
+#index-30_	{
+			position:absolute;
+			left:0px;
+			top:411px;
+			width:139px;
+			height:189px;
+			}
+			
+#sidebanner	{
+			position:absolute;
+			left:0px;
+			top:200px;
+			width:139px;
+			height:500px;
+			}
+			
+#maincontent	{
+				position:absolute;
+				left:155px;
+				top:200px;
+				}
+				
+img	{
+	margin:0px;
+	padding:0px;
+	display:block;
+	border:none;
+	}
+
+p	{
+	font-family:'Courier New', Courier, monospace;
+	font-size:12px;
+	vertical-align:text-top;
+	text-align:justify;
+	}
+	
+h3	{
+	font-family:'System', 'Courier New', Courier, monospace;
+	color:black;
+	font-size:24px;
+	margin-top:0px;
+	}
+	
+#footer	{
+		position:absolute;
+		top:650px;
+		left:155px;
+		width:483px;
+		height:40px;
+		padding-bottom:5px;
+		margin-right:auto;
+		margin-left:auto;
+		}
+		
+#footertable{
+			font-family:'Courier New', Courier, monospace;
+			position:relative;
+			top:13px;
+			text-align:center;
+			font-size:11px;
+			color:black;
+			text-decoration:none;
+			margin:0px;
+			padding:0px;
+			border-width:0px;
+			border-collapse:collapse;
+			width:483px;
+			}
